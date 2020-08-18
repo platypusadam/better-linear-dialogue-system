@@ -1,4 +1,4 @@
-# better-linear-dialogue-system
+# better-linear-dialogue-system-for-unity
 Dialogue system which is quick to set up and has a little flexibility
 
 Dialogue setup:
